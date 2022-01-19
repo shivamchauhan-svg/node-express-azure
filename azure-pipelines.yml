@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-lates'
+  vmImage: ubuntu-lates
 
 steps:
 - task: NodeTool@0
